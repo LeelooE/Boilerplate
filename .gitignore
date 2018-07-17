@@ -1,0 +1,9 @@
+node_modules/
+public/dist/
+2.19.3
+4.2.1
+.vscode/
+git/
+yarn-error.log
+.env.test
+.env.development
